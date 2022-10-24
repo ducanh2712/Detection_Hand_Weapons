@@ -1,4 +1,0 @@
-train: /content/drive/MyDrive/EDABK/yolov7_train/data/train
-val: /content/drive/MyDrive/EDABK/yolov7_train/data/test
-nc: 6
-names: ['pistol','knife','smartphone','billete','monedero','tarjeta']
